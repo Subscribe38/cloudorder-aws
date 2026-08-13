@@ -1,0 +1,48 @@
+# CloudOrder - Project Requirements
+
+## 1. Project Overview
+
+CloudOrder is a cloud-based order management application designed to demonstrate the deployment of a production-ready application on AWS.
+
+## 2. Objective
+
+The objective is to design, develop and deploy a scalable, secure and highly available application using AWS cloud services.
+
+## 3. Customer Features
+
+- User registration
+- User login
+- View products
+- Place orders
+- View order history
+
+## 4. Admin Features
+
+- Add products
+- Update products
+- Delete products
+- View customer orders
+
+## 5. Planned Technology Stack
+
+Frontend:
+- HTML/CSS/JavaScript or React
+
+Backend:
+- Python
+- FastAPI
+
+Database:
+- PostgreSQL
+
+Cloud:
+- AWS
+
+Containers:
+- Docker
+
+Infrastructure as Code:
+- Terraform
+
+CI/CD:
+- GitHub Actions
